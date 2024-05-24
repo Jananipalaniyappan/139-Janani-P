@@ -1,0 +1,15 @@
+Enter a positive number: 7
+
+49
+
+Enter a positive number: 12
+
+144
+
+Enter a positive number: 97
+
+9409
+
+Enter a positive number: -9
+
+('Negative number',)
